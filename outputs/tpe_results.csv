@@ -1,6 +1,6 @@
 Metric,Value
-Baseline PM2.5 (µg/m³),96.0
-Simulated PM2.5 (µg/m³),88.2300033569336
-PM2.5 Change (%),-8.100000381469727
+Baseline PM2.5 (µg/m³),96.05999755859375
+Simulated PM2.5 (µg/m³),87.7699966430664
+PM2.5 Change (%),-8.630000114440918
 Traffic Reduction (%),20.0
-TPE Value,0.4050000011920929
+TPE Value,0.4320000112056732

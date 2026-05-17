@@ -4,31 +4,31 @@
 ╚══════════════════════════════════════════════════════════════╝
 
 1. TRAFFIC REROUTING
-   → High-TPE zones identified: N/A
+   → High-TPE zones identified: DL006, KA010
    → These areas respond most strongly to traffic changes
    → Recommendation: Implement traffic diversion during winter months
-   → Expected PM2.5 reduction: up to 9.7%
+   → Expected PM2.5 reduction: up to 10.2%
 
 2. LOW-EMISSION ZONES (LEZ)
-   → Priority locations: N/A
+   → Priority locations: DL006, KA010
    → These stations exceed NAAQS (60 µg/m³) during peak periods
    → Recommendation: Restrict heavy vehicles, diesel trucks within 5km radius
 
 3. PEAK-HOUR ENFORCEMENT
    → Peak period (Weekday + Winter) shows 61.4% higher PM2.5
    → Best policy simulation: C: Odd-Even Scheme (Winter Weekdays)
-   → Expected improvement: 4.85 µg/m³ reduction in average PM2.5
+   → Expected improvement: 4.92 µg/m³ reduction in average PM2.5
    → Recommendation: Stagger office hours 8-10am to spread peak traffic
 
 4. ODD-EVEN SCHEME
-   → Simulated PM2.5 after odd-even: 92.38 µg/m³
-   → Reduction from baseline: 4.85 µg/m³ (5.0%)
+   → Simulated PM2.5 after odd-even: 92.33 µg/m³
+   → Reduction from baseline: 4.92 µg/m³ (5.1%)
    → Recommendation: Apply during Nov-Jan (winter months) on weekdays
 
 5. SENSOR PLACEMENT RECOMMENDATIONS
    → Current coverage gaps in high-TPE zones
    → Priority areas for NEW sensors:
-     • High-traffic corridors (highest TPE)
+     • DL006 (highest TPE)
      • Near major intersections in Delhi, Bengaluru
    → Real-time monitoring needed for peak-hour enforcement
 
