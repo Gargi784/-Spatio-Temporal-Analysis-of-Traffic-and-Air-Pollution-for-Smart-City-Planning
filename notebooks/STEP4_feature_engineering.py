@@ -449,7 +449,7 @@ df['AQI_Category']       = df['AQI'].apply(aqi_category)
 df['Is_High_Pollution']  = (df['AQI'] > 200).astype(int)
 
 # Handle remaining missing values
-df = df.fillna(method='ffill')
+df = df.ffill()
 df = df.fillna(df.mean(numeric_only=True))
 df = df.dropna(subset=['PM2.5', 'AQI'])
 
