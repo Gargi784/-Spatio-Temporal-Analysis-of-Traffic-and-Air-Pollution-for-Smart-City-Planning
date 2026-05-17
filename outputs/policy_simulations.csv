@@ -1,0 +1,4 @@
+Scenario,Baseline_PM25,Simulated_PM25,Absolute_Reduction,Pct_Change,Policy
+A: 20% Peak Traffic Reduction,97.23,94.97,2.26,-2.32,"Peak-hour traffic restrictions (Mon-Fri, Winter)"
+B: Wind Speed +50% (Green Corridors),97.23,96.81,0.42,-0.43,Green wind corridors / urban tree planting to improve dispersal
+C: Odd-Even Scheme (Winter Weekdays),97.23,92.38,4.85,-4.99,Odd-even vehicle restrictions on winter weekdays

@@ -1,0 +1,9 @@
+city,season,avg_pm25,max_pm25
+Bengaluru,Winter,65.08,306.32
+Bengaluru,Spring,61.28,641.7
+Bengaluru,Post-Monsoon,58.66,398.16
+Bengaluru,Monsoon,47.99,549.5
+Delhi,Winter,162.5,1000.0
+Delhi,Post-Monsoon,161.75,875.34
+Delhi,Spring,82.47,489.88
+Delhi,Monsoon,61.31,531.71
